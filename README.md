@@ -1,0 +1,1 @@
+Installed Vagrant with Lamp and chef
